@@ -21,6 +21,8 @@ Descarga el repositorio
 Instala las librerias requeridas
 
 ``` npm i ```
+
+Crea tu archivo .env con tu información de mongo
   
   ## Usage
   
